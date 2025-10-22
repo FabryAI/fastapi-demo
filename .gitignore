@@ -1,0 +1,8 @@
+.env*
+__pycache__/
+*.pyc
+alembic/versions/*.pyc
+pgdata/
+.mypy_cache/
+.pytest_cache/
+.hypothesis/
